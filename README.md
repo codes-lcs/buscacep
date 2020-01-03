@@ -1,2 +1,5 @@
-# phpavancado
-Estudo PHP Avançado da Digital Innovation
+# Busca cep
+
+Busca de endereço por cep, utilizando webservice viacep.com.br
+
+
